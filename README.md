@@ -27,6 +27,7 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 | Cumulative Returns | Convert a sequence of periodic returns into cumulative compounded returns at every time-series position. | https://www.tensortonic.com/problems/cumulative-returns |
 | Double Exponential Smoothing | Apply Holt double exponential smoothing to a time series by updating level and trend components. | https://www.tensortonic.com/problems/double-exponential-smoothing |
 | ε-Greedy Action Selection | Select a reinforcement-learning action with epsilon-greedy exploration using action values and controlled randomness. | https://www.tensortonic.com/problems/epsilon-greedy |
+| Gaussian Blur Kernel | Generate a normalized 2D Gaussian blur kernel from an odd kernel size and positive standard deviation. | https://www.tensortonic.com/problems/gaussian-blur-kernel |
 | Image Rotation (Nearest Neighbor) | Rotate a 2D image around its center with nearest-neighbor sampling and defined out-of-bounds handling. | https://www.tensortonic.com/problems/image-rotation-nearest |
 | Impute Missing Values (mean/median) | Impute missing numeric values column-wise with either the mean or median while leaving observed values unchanged. | https://www.tensortonic.com/problems/impute-missing |
 | Logistic Regression Training Loop | Train binary logistic regression in NumPy using sigmoid probabilities, gradient descent, and learned weight and bias parameters. | https://www.tensortonic.com/problems/logistic-regression-training |
